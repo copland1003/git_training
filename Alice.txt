@@ -1,1 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. I was the first file in this repository.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. I was the first file in this repository. Another modification.
