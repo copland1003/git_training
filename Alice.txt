@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. I was the first file in this repository. Another modification.
 Text on the third line.
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. I was the first file in this repository. Another modification. How many commits do i have to do.
+>>>>>>> change_alice
